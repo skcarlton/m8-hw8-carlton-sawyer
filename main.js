@@ -1,9 +1,6 @@
 // It is always helpful to use comments in your code!
 
-var subMenu = document.getElementsByClassName('sub-menu');
-var tabs = document.getElementsByClassName('main-menu-labels');
-
-
+//variables
 var products = document.getElementsByClassName('products');
 var services = document.getElementsByClassName('services');
 var company = document.getElementsByClassName('company');
