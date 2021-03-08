@@ -20,6 +20,7 @@
 .sub-menu {
   padding-left: 0;
   background-color: #dde1e7;
+  display: none;
 }
 .sub-menu li {
   display: block;
@@ -27,4 +28,8 @@
   padding: 20px;
   border: 2px solid #fff;
   box-sizing: border-box;
+}
+
+.hover {
+  display: block;
 }
